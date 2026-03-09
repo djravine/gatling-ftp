@@ -1,7 +1,7 @@
 /target/
 /.classpath
 /*.project
-/.settings
+/.settings/
 /*.bash_profile
 /*.springBeans
 /results/
@@ -12,6 +12,7 @@
 /**/.project
 /**/*.springBeans
 /**/*.bash_profile
+/**/results/
 
 /*.idea/
 /*.iml
@@ -19,5 +20,14 @@
 /.vscode/
 /.metals/
 /.bloop/
-/.vscode/
-/.metals/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
