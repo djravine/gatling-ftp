@@ -19,13 +19,8 @@ libraryDependencies += "io.github.fherbreteau" %% "gatling-ftp" % "<version>" % 
 
 ## Example Scenarios
 
-### Scala
-
-See [Sample Simulations](src/test/scala/io/github/fherbreteau/gatling/ftp/examples)
-
-### Java
-
-See [Sample Simulations](src/test/java/io/github/fherbreteau/gatling/ftp/examples)
+- **Scala** -- [Sample Simulations](src/test/scala/io/github/fherbreteau/gatling/ftp/examples)
+- **Java** -- [Sample Simulations](src/test/java/io/github/fherbreteau/gatling/ftp/examples)
 
 ## Testing
 
